@@ -1,6 +1,24 @@
-## Your Name
+## Katie Whitlock
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Hi, I'm Katie - I have spent the past 8 years solving problems for people and businesses, in one way or another. I've started a tech-led non-profit to help tackle homelessness that's backed - and now run by - Mayor of London, I've led the business strategy at a tech start-up - working closely with a tech team, and I've worked in advertising as a strategist solving business problems for hotels, government and pharma. My most recent role was Head of Philanthropic Projects at The Guardian. 
+
+Since I learned what programming actually is (problem-solving, grit, teamwork), rather than how it is misrepresented (math geniuses slamming each other- thanks 'The Social Network'!) - I have known it is the path for me. IFTTT, my beloved Raspberry Pi and the CS50 online course all got me hooked on the frustration and wonders of software. Now here I am at Makers!
+
+Why hire me?
+
+Creative problem solver: I think deeply about user-centric design and commercial application of code. The organisation I started - TAP London - has engaged over 70k people in 2 years. 
+
+Good communicator: Having led my own organisation I've been exposed to a broad range of people and experiences. More than anything it's taught me to understand expectations, and the importance of communicating clearly with those expectations in mind. 
+
+I learn quickly, very quickly: tell me something once, It's logged to memory. commit -m "inserted cringe github joke". I am diligent with ensuring I understand things at a deep level. As a testament to my learning capabilities: I studied business and won an award for graduating as the top student in my cohort (260 people).
+
+Good eyes: I am an avid reader and spot typos quickkly. 
+
+Easy to manage: I'm honest and empathetic team member. I'll tell someone in the team if I'm struggling, and look out for others who may need help. 
+
+Gritty: I completed a masters at Cambridge University (including 40k word dissertation), during this time I rowed for the university, waking up at 5am every morning to train 35 hours a week around my studies. 
+
+
 
 ## Projects
 
