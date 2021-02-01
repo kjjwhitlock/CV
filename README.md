@@ -1,4 +1,4 @@
-## Katie Whitlock
+## Katie Whitlock (WORK IN PROGRESS - CURRENTLY DRAFTING)
 
 Hi, I'm Katie - I have spent the past 8 years solving problems for people and businesses, in one way or another. I've started a tech-led non-profit to help tackle homelessness that's backed - and now run by - Mayor of London, I've led the business strategy at a tech start-up - working closely with a tech team, and I've worked in advertising as a strategist solving business problems for hotels, government and pharma. My most recent role was Head of Philanthropic Projects at The Guardian. 
 
